@@ -15,13 +15,13 @@ export const items: Item[] = [
     },
     {
         date: new Date(2022, 1, 17),
-        category: 'Rent',
+        category: 'rent',
         title: 'Aluguel apt',
         value: 2300
     },
     {
         date: new Date(2022, 2, 17),
-        category: 'Salary',
+        category: 'salary',
         title: 'Salário jx',
         value: 4500
     },
