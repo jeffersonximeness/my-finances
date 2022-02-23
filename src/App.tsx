@@ -12,7 +12,6 @@ import { TableArea } from './components/TableArea'
 import { InfoArea } from './components/InfoArea'
 import { InputArea } from './components/InputArea'
 
-
 const App = () => {
 
   const [list, setList] = useState(items)
